@@ -1,18 +1,9 @@
 ---
 title: Documentation
-next: first-page
+next: synthetic
+weight: 2
 ---
 
-This is a demo of the theme's documentation layout.
+The documentation here serves to explain how the data our [lab](https://lab.anaesdept.org) uses is generated, and how it may be used.
 
-## Hello, World!
 
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
