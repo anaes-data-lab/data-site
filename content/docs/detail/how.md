@@ -2,6 +2,7 @@
 title: Generating & Validating Synthetic Data
 type: docs
 prev: docs/detail/privacy
+weight: 3
 ---
 
 Healthcare synthetic data is typically produced via:

@@ -3,6 +3,7 @@ title: What is Synthetic Data
 type: docs
 next: docs/detail/privacy
 prev: docs/detail/
+weight: 1
 ---
 
 Synthetic data is artificially generated information that mimics the statistical properties of real-world datasets without exposing any actual patient records. Unlike de-identified or anonymized data—which starts from real data and removes or masks identifiers—synthetic data is created from scratch using mathematical models or machine learning algorithms.

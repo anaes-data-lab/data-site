@@ -3,6 +3,7 @@ title: Privacy & Regulatory Benefits
 type: docs
 next: docs/detail/how
 prev: docs/detail/what
+weight: 2
 ---
 
 Generating data that never existed avoids the pitfalls of re-identification and linkage attacks inherent in de-identification. Since synthetic datasets contain no actual patient entries, they fall outside most definitions of “personal data,” simplifying ethics reviews and data-use agreements.
