@@ -1,5 +1,5 @@
 ---
-title: Welcome to data at RCH
+title: Welcome to data for anaesthesia
 toc: false
 ---
 
@@ -19,6 +19,6 @@ Inside, you will find:
 
 ## Jupyter Hub - The Data Lab
 
-A lab has been created for RCH clinicians to explore synthetic data using Python and R.
+A lab has been created for clinicians to explore synthetic data using Python and R.
 
 This is an instance of [JupyterHub](https://jupyter.org/hub) (specifically, [The Littlest JupyterHub](https://tljh.jupyter.org/en/latest/)), which provides a Python or R environment in your browser.
