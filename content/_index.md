@@ -10,6 +10,10 @@ Inside, you will find:
 - Tutorials on the using data science tools, including Jupyter Notebooks, Python and R
 - Links to further information on data science topics
 
+{{< callout emoji="🌐" >}}
+  A popular synthetic data library is the [Synthetic Data Vault](https://github.com/sdv-dev/SDV?tab=readme-ov-file#getting-started), which is an open source Python library
+{{< /callout >}}
+
 ## Explore
 
 {{< cards >}}
